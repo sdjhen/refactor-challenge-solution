@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header(s) & Nav Styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* Main Styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* Section Styling */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +132,7 @@ p {
     font-size: 36px;
 }
 
+/* Aside Styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +192,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
